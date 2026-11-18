@@ -1,7 +1,7 @@
 ﻿{
-  "latest_version": "1.0.0",
-  "version_code": 1,
-  "download_url": "https://github.com/lutfiwidianto/aegis-releases/releases/download/v1.0.0/Aegis_Remote_Mobile.apk",
-  "release_notes": "Aegis Remote v1.0.0:\n- Sistem Remote Layar Multi-Monitor Ultra-HD 60 FPS.\n- Luxury UI Dark Mode dengan sentuhan gestur responsif.\n- Virtual Trackpad, Mouse Sniper, dan Quick Keyboard.\n- Dukungan Jalur Internet Aman & LAN Discovery.",
-  "mandatory": false
+    "latest_version":  "1.0.1",
+    "version_code":  2,
+    "download_url":  "https://github.com/lutfiwidianto/aegis-releases/releases/download/v1.0.1/Aegis_Remote_Mobile.apk",
+    "release_notes":  "Aegis Remote Mobile v1.0.1:\n- Dual-Mode Keyboard Input (⚡ Direct Live / 📝 Buffered Draft)\n- 1-Tap Clipboard Sync HP ke PC (📋)\n- Ultra-sleek Remote Action Ribbon (Esc, Tab, Ctrl+C, Ctrl+V, Win, Enter)\n- Extended Function Keys Toolbar (F1-F12, Win+R, Ctrl+Alt+Del, Win+D, Alt+F4)\n- Auto OTA update support \u0026 Zero PC client update requirement",
+    "mandatory":  false
 }
